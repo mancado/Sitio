@@ -1,0 +1,20 @@
+
+ #caja {
+     width: 200px; 
+     height: 200px; 
+     background-color: red;  
+}
+
+span{
+  color: white;
+}
+
+.morado{
+  background-color: purple;
+}
+
+.negro{
+  background-color: black;
+}
+  
+  
